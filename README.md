@@ -24,4 +24,3 @@ The following video demonstrates the Network Troubleshooting Assistant running i
 https://www.youtube.com/watch?v=8jeoo91PFJI
 Conclusion
 Developing this project provided practical experience with Python functions, user input, conditional statements, testing, and troubleshooting logic. It also demonstrated how a simple program can help users work through common technology problems. The project can serve as a starting point for a more advanced troubleshooting application with additional features and a graphical interface.
-//www.youtube.com/watch?v=8jeoo91PFJI)
