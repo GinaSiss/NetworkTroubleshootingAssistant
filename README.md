@@ -9,13 +9,13 @@ If the user answers no, the program asks whether other devices can connect to th
 These questions help guide the user toward a possible solution without requiring advanced networking knowledge.
 ## Main Features
 The main features include interactive questions, decision-making based on user responses, and troubleshooting suggestions. The program is designed to be straightforward so users can follow the questions and understand the recommendations. It also provides a simple example of how conditional logic can be used to create a useful troubleshooting tool.
-Project Files
+## Project Files
 The GitHub repository contains three main files. TermProject.py contains the Python source code for the Network Troubleshooting Assistant. README.md explains the project’s purpose, features, setup, and testing. requirements.txt documents the project’s software dependencies. Keeping these files organized makes it easier for another person to understand and run the project.
-How to Run the Program
+## How to Run the Program
 Python must be installed on the computer before running the program. Download or clone the project repository and open Command Prompt in the project folder. Enter the following command:
 py TermProject.py
 The program will display its welcome message and begin asking questions. Answer the prompts using yes or no. The program will then provide recommendations based on the answers entered.
-Testing
+## Testing
 I tested the program using different internet connection scenarios. The first scenario involved a working internet connection. The second scenario involved an internet connection that was not working on the computer even though other devices could connect. The third scenario involved a situation where neither the computer nor other devices could connect. Testing these scenarios helped verify that the program followed the expected decision paths and displayed the appropriate troubleshooting recommendations.
 Limitations and Future Improvements
 This program provides basic troubleshooting suggestions and does not automatically test the computer’s network connection. Future improvements could include additional questions about Wi-Fi signals, network cables, IP addresses, and DNS problems. Another improvement would be creating a graphical user interface with buttons and menus instead of requiring users to type answers. The program could also provide more detailed instructions for different operating systems.
