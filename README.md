@@ -22,5 +22,6 @@ This program provides basic troubleshooting suggestions and does not automatical
 ## Demonstration Video
 The following video demonstrates the Network Troubleshooting Assistant running in Command Prompt.
 https://www.youtube.com/watch?v=8jeoo91PFJI
+https://youtu.be/dL4LLnKVDEs
 ## Conclusion
 Developing this project provided practical experience with Python functions, user input, conditional statements, testing, and troubleshooting logic. It also demonstrated how a simple program can help users work through common technology problems. The project can serve as a starting point for a more advanced troubleshooting application with additional features and a graphical interface.
