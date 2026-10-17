@@ -17,10 +17,10 @@ py TermProject.py
 The program will display its welcome message and begin asking questions. Answer the prompts using yes or no. The program will then provide recommendations based on the answers entered.
 ## Testing
 I tested the program using different internet connection scenarios. The first scenario involved a working internet connection. The second scenario involved an internet connection that was not working on the computer even though other devices could connect. The third scenario involved a situation where neither the computer nor other devices could connect. Testing these scenarios helped verify that the program followed the expected decision paths and displayed the appropriate troubleshooting recommendations.
-Limitations and Future Improvements
+## Limitations and Future Improvements
 This program provides basic troubleshooting suggestions and does not automatically test the computer’s network connection. Future improvements could include additional questions about Wi-Fi signals, network cables, IP addresses, and DNS problems. Another improvement would be creating a graphical user interface with buttons and menus instead of requiring users to type answers. The program could also provide more detailed instructions for different operating systems.
-Demonstration Video
+## Demonstration Video
 The following video demonstrates the Network Troubleshooting Assistant running in Command Prompt.
 https://www.youtube.com/watch?v=8jeoo91PFJI
-Conclusion
+## Conclusion
 Developing this project provided practical experience with Python functions, user input, conditional statements, testing, and troubleshooting logic. It also demonstrated how a simple program can help users work through common technology problems. The project can serve as a starting point for a more advanced troubleshooting application with additional features and a graphical interface.
